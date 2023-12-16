@@ -1,0 +1,47 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    background-color: hsl(212, 45%, 89%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.QR-code {
+    background-color: hsl(0, 0%, 100%);
+    height: 420px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.picture {
+    width: 230px;
+    height: 240px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.text {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    width: 190px;
+}
+
+.heading {
+    font-size: 15px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+
+.sub-heading {
+    font-size: 12px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
