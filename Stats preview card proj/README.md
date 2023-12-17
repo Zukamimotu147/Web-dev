@@ -52,6 +52,7 @@ Users should be able to:
 ### Continued development
 
 Proper HTML tags to use
+maybe proper css to use too...
 
 
 ## Author
